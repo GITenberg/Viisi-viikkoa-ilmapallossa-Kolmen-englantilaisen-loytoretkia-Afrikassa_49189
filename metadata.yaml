@@ -1,0 +1,40 @@
+_repo: Viisi-viikkoa-ilmapallossa-Kolmen-englantilaisen-loytoretkia-Afrikassa_49189
+contributor:
+  translator:
+    agent_name: Suomalainen, Samuli
+    aliases:
+    - Samuli S.
+    - S., Samuli
+    birthdate: 1850
+    deathdate: 1907
+    gutenberg_agent_id: '7732'
+    url: http://www.gutenberg.org/2009/agents/7732
+    wikipedia: http://fi.wikipedia.org/wiki/Carl_Gustaf_Samuel_Suomalainen
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Júlio
+    - Verne, Jules Gabriel
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: ''
+gutenberg_issued: '2015-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49189'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Viisi viikkoa ilmapallossa
+
+  Kolmen englantilaisen löytöretkiä Afrikassa'
+url: http://www.gutenberg.org/ebooks/49189
